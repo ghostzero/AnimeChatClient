@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e91e1dc9-b396-459e-98f3-1e8fdc0a66c2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/5.2.1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/ghostzero/chat/api/ChatClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/ghostzero/chat/api/exceptions/APIException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/ghostzero/chat/api/exceptions/BadRequestException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/ghostzero/chat/api/resources/LoggedInUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/ghostzero/chat/api/resources/MemberData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/ghostzero/chat/api/resources/News.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/ghostzero/chat/api/resources/SchoolClubPost.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/ghostzero/chat/api/resources/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/ghostzero/chat/api/services/NewsService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/ghostzero/chat/api/services/SchoolClubService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/ghostzero/chat/api/services/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/ghostzero/chat/api/socket/Event.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/ghostzero/chat/api/socket/SocketClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/ghostzero/chat/api/socket/emitters/AsyncEmit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/ghostzero/chat/api/socket/events/Event.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/ghostzero/chat/api/socket/events/EventHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/ghostzero/chat/api/socket/events/EventListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/ghostzero/chat/api/socket/events/EventManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/ghostzero/chat/api/socket/listeners/ListenerAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/ghostzero/chat/api/socket/responses/Avatar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/ghostzero/chat/api/socket/responses/ChatInitOnJoin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/ghostzero/chat/api/socket/responses/ChatLine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/ghostzero/chat/api/socket/responses/MoveAvatar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/ghostzero/chat/api/socket/responses/Position.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/ghostzero/chat/api/socket/responses/Room.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/me/ghostzero/chat/ChatClientUnitTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/WaifuCommand/HelpCommand.php" beforeDir="false" afterPath="$PROJECT_DIR$/../app/WaifuCommand/HelpCommand.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/../readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/views/home.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../resources/views/home.blade.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1TiLGy5NhKV6O41AvCsroHZEeME" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/me/ghostzero" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="me.ghostzero.chat.api.resources" />
+      <recent name="chat" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/me/ghostzero" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="ChatClientUnitTest.testSendCommand" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;me.ghostzero.chat.ChatClientUnitTest.testSendCommand&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.ChatClientUnitTest.testSendCommand" />
+        <item itemvalue="Gradle.ChatClientUnitTest.testSendCommand" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e91e1dc9-b396-459e-98f3-1e8fdc0a66c2" name="Default Changelist" comment="" />
+      <created>1573937878016</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573937878016</updated>
+      <workItem from="1573937894855" duration="2078000" />
+      <workItem from="1573940050891" duration="3000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="449" y="264" width="800" height="684" key="#Project_Structure" timestamp="1573938132093">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="449" y="264" width="800" height="684" key="#Project_Structure/70.27.1850.1053@70.27.1850.1053" timestamp="1573938132093" />
+    <state x="545" y="145" width="889" height="823" key="CommitChangelistDialog2" timestamp="1573938691897">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="545" y="145" width="889" height="823" key="CommitChangelistDialog2/70.27.1850.1053@70.27.1850.1053" timestamp="1573938691897" />
+    <state width="1804" height="275" key="GridCell.Tab.0.bottom" timestamp="1573940006948">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="1804" height="275" key="GridCell.Tab.0.bottom/70.27.1850.1053@70.27.1850.1053" timestamp="1573940006948" />
+    <state width="1804" height="275" key="GridCell.Tab.0.center" timestamp="1573940006948">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="1804" height="275" key="GridCell.Tab.0.center/70.27.1850.1053@70.27.1850.1053" timestamp="1573940006948" />
+    <state width="1804" height="275" key="GridCell.Tab.0.left" timestamp="1573940006948">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="1804" height="275" key="GridCell.Tab.0.left/70.27.1850.1053@70.27.1850.1053" timestamp="1573940006948" />
+    <state width="1804" height="275" key="GridCell.Tab.0.right" timestamp="1573940006948">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="1804" height="275" key="GridCell.Tab.0.right/70.27.1850.1053@70.27.1850.1053" timestamp="1573940006948" />
+    <state x="726" y="266" width="527" height="581" key="RollbackChangesDialog" timestamp="1573938720676">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="726" y="266" width="527" height="581" key="RollbackChangesDialog/70.27.1850.1053@70.27.1850.1053" timestamp="1573938720676" />
+    <state x="651" y="381" key="com.intellij.ide.util.TipDialog" timestamp="1573940050328">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="651" y="381" key="com.intellij.ide.util.TipDialog/70.27.1850.1053@70.27.1850.1053" timestamp="1573940050328" />
+    <state x="640" y="289" width="710" height="528" key="find.popup" timestamp="1573938422169">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="640" y="289" width="710" height="528" key="find.popup/70.27.1850.1053@70.27.1850.1053" timestamp="1573938422169" />
+  </component>
+</project>
